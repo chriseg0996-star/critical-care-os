@@ -1,0 +1,12 @@
+{
+  "name": "@ccos/workflow-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SPEC-007 Workflow Engine — deterministic orchestration of Critical Care OS engines.",
+  "spec": "specs/SPEC-007_WORKFLOW_ENGINE.md",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "tsx --test test/*.test.ts"
+  }
+}
