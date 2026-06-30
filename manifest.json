@@ -1,0 +1,26 @@
+{
+  "name": "Critical Care OS",
+  "version": "0.1.0",
+  "description": "Modular ICU reasoning and documentation system for ChatGPT Projects.",
+  "modules": [
+    "modules/00_core/00_SYSTEM.md",
+    "modules/00_core/01_WRITING_STYLE.md",
+    "modules/00_core/02_DOCUMENTATION_RULES.md",
+    "modules/00_core/03_CLINICAL_REASONING.md",
+    "modules/00_core/04_CALCULATIONS.md",
+    "modules/00_core/05_SCORES.md",
+    "modules/10_documentation/10_ICU_EVOLUTION_NOTES.md",
+    "modules/10_documentation/11_ICU_ADMISSION_NOTES.md",
+    "modules/10_documentation/12_ICU_DISCHARGE_NOTES.md",
+    "modules/10_documentation/13_ICU_CONSULT_NOTES.md",
+    "modules/20_physiology/20_MECHANICAL_VENTILATION.md",
+    "modules/20_physiology/21_ABG_INTERPRETATION.md",
+    "modules/20_physiology/22_HEMODYNAMICS_SHOCK.md",
+    "modules/20_physiology/23_RENAL_ELECTROLYTES_RRT.md",
+    "modules/30_specialties/30_NEUROCRITICAL_CARE.md",
+    "modules/30_specialties/31_INFECTIOUS_DISEASES_SEPSIS.md",
+    "modules/40_imaging/40_IMAGING_INTERPRETATION.md",
+    "modules/50_research/50_RESEARCH_PRESENTATIONS.md",
+    "modules/60_automation/60_AUTOMATION_ENGINE.md"
+  ]
+}
