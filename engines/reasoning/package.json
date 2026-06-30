@@ -1,0 +1,12 @@
+{
+  "name": "@ccos/reasoning-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SPEC-008 Reasoning Engine — bounded, deterministic clinical reasoning synthesis.",
+  "spec": "specs/SPEC-008_REASONING_ENGINE.md",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "tsx --test test/*.test.ts"
+  }
+}
